@@ -1,2 +1,2 @@
-# Spark Docker Image
+# Spark Master Docker Image
 
