@@ -17,3 +17,7 @@ You can use Zookeeper to provide High Availability in Spark Master. For example:
     docker run --name spark-master-3 jnonino/spark-master-docker-image <ZOOKEEPER_ENDPOINT>
 
 Spark Master nodes will use Zookeeper to connect to each other and elect a leader. Leader election will be performed again if the current leader node goes down.
+
+The Spark Master UI can be accessed using:  
+
+    <SPARK_MASTER_CONTAINER_IP>:8080
