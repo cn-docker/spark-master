@@ -1,4 +1,4 @@
-FROM jnonino/spark-base-docker-image
+FROM jnonino/spark-base
 LABEL maintainer="Julian Nonino <noninojulian@outlook.com>"
 
 # Spark Master Port
