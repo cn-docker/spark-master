@@ -1,4 +1,4 @@
-# Spark Master Docker Image
+# Spark Master Docker Image [![Docker hub](https://img.shields.io/docker/pulls/jnonino/spark-master.svg)](https://hub.docker.com/r/jnonino/spark-master/)
 
 https://hub.docker.com/r/jnonino/spark-master-docker-image/
 
