@@ -1,6 +1,14 @@
-# Spark Master Docker Image [![Docker hub](https://img.shields.io/docker/pulls/jnonino/spark-master.svg)](https://hub.docker.com/r/jnonino/spark-master/)
+# Spark Master Docker Image
 
-https://hub.docker.com/r/jnonino/spark-master-docker-image/
+[![](https://img.shields.io/docker/pulls/jnonino/spark-master)](https://hub.docker.com/r/jnonino/spark-master/)
+[![](hhttps://img.shields.io/docker/build/jnonino/spark-master)](https://hub.docker.com/r/jnonino/spark-master/)
+[![](https://img.shields.io/docker/automated/jnonino/spark-master)](https://hub.docker.com/r/jnonino/spark-master/)
+[![](https://img.shields.io/docker/stars/jnonino/spark-master)](https://hub.docker.com/r/jnonino/spark-master/)
+[![](https://img.shields.io/github/license/jnonino/spark-master-docker-image)](https://github.com/jnonino/spark-master-docker-image)
+[![](https://img.shields.io/github/issues/jnonino/spark-master-docker-image)](https://github.com/jnonino/spark-master-docker-image)
+[![](https://img.shields.io/github/issues-closed/jnonino/spark-master-docker-image)](https://github.com/jnonino/spark-master-docker-image)
+[![](https://img.shields.io/github/languages/code-size/jnonino/spark-master-docker-image)](https://github.com/jnonino/spark-master-docker-image)
+[![](https://img.shields.io/github/repo-size/jnonino/spark-master-docker-image)](https://github.com/jnonino/spark-master-docker-image)
 
 ## Run a Spark Master Standalone
 
