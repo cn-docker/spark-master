@@ -1,4 +1,4 @@
-FROM jnonino/spark-base
+FROM cnservices/spark-base
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 # Spark Master Port
